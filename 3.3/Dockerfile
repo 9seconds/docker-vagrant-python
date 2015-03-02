@@ -1,7 +1,7 @@
 # Baseimage for Docker-related Vagrant environments
 
 
-FROM nineseconds/vagrant-ubuntu:latest
+FROM nineseconds/docker-vagrant:latest
 MAINTAINER Sergey Arkhipov <nineseconds@yandex.ru>
 
 # Update repository lists
